@@ -1,5 +1,5 @@
-http://127.0.0.1:8000/
 # NeoScraper - Django Web Scraper
+http://127.0.0.1:8000/
 
 This project has been successfully converted from Flask to Django. NeoScraper is an advanced web content extractor that analyzes websites and extracts key information including headings, metadata, important content, images, and links.
 
